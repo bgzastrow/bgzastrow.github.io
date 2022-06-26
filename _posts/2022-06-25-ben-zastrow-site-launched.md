@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ben Zastrow Launches Site"
+title: "First post"
 date: 2022-06-25
 ---
 
-Finally got around to putting this website together using Hank Quinlan's template. Powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts.
+Credit to Hank Quinlan's template for the initial structure of this website.
