@@ -55,41 +55,29 @@ span.sep {
     color: #ddd;
     padding: 0 3px;
 }
-.container {
-    max-width: 970px;
-}
-
-.blog-container {
-   font-family: "monosans";
-   width: 750px;
-   margin: 0 auto;
-   font-size: 18px;
-   text-align: justify;
-   font-weight: 75;
-   display: block;
-}
 
 img {
     display: block;
     margin: auto;
 }
 
-ul {
-    padding-left: 25px;
-}
 b {
     font-weight: 600;
 }
-.footer {
+footer {
     text-align: center;
     margin: 5px 0 100px 0;
 }
-.footer a {
+footer a {
     color: #999;
     font-family: Lato;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 12px;
 }
+.container{
+    max-width: 970px;
+}
+
 @media (min-width: 768px) {
     .container {
         margin-top: 50px;
@@ -122,7 +110,6 @@ img.pub_img {
 }
 
 
-
 img.seal {
     width:90px;max-width:100%;float:left
 }
@@ -133,15 +120,17 @@ img.blogimg {
 }
 
 ul {
-    list-style-type: none
+    padding-left: 0px;
+    list-style-type: none;
 }
 
 li {
-    float: left
+    float: left;
 }
 
 li a {
-    display: block;
     padding: 8px;
+    color: #666;
+    font-weight: bold;
 }
 
