@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cadd06b-69d0-4e13-986e-6c2670b81d35" name="Changes" comment="testing shortcut">
+    <list default="true" id="8cadd06b-69d0-4e13-986e-6c2670b81d35" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-06-25-ben-zastrow-site-launched.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/atom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/temp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658622242868</updated>
       <workItem from="1658622248359" duration="3016000" />
-      <workItem from="1658625666806" duration="1572000" />
+      <workItem from="1658625666806" duration="3054000" />
     </task>
     <task id="LOCAL-00001" summary="testing shortcut">
       <created>1658623409960</created>
@@ -60,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658623435056</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1658627577444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658627577444</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1658628029985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658628029985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing shortcut" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing shortcut" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
